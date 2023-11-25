@@ -1,0 +1,41 @@
+<resources>
+    <!-- app name -->
+    <string name="app_name">Test</string>
+<!-- index-->
+<string name="index1">1</string>
+<string name="index2">2</string>
+<string name="index3">3</string>
+<string name="index4">4</string>
+<string name="index5">5</string>
+<string name="index6">!!!</string>
+
+
+
+<!-- name-->
+<string name="name1">Küchen </string>
+<string name="name2">Coca Cola </string>
+<string name="name3">Proseco </string>
+<string name="name4">Schokolade </string>
+<string name="name5">Küchenrolle </string>
+<string name="name6">ANWAHLT NR.: </string>
+
+
+<!-- menge-->
+<string name="menge1">1</string>
+<string name="menge2">2</string>
+<string name="menge3">1</string>
+<string name="menge4">3</string>
+<string name="menge5">6</string>
+<string name="menge6">017614171983</string>
+
+
+
+
+<!-- UI -->
+<string name="goshopping">GO_SHOPPING</string>
+
+<!-- Content Descriptions-->
+<string name="account">Konto</string>
+<string name="GoShopping" translatable="true">GoShopping</string>
+
+</resources>
